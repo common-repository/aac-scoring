@@ -1,0 +1,63 @@
+.bypostauthor > article .fn:before,
+.comment-edit-link:before,
+.comment-reply-link:before,
+.comment-reply-login:before,
+.comment-reply-title small a:before,
+.contributor-posts-link:before,
+.menu-toggle:before,
+.search-toggle:before,
+.slider-direction-nav a:before,
+.widget_twentyfourteen_ephemera .widget-title:before { font: normal 16px/1 FontAwesome !important; }
+.hentry .mejs-overlay-button:before { content: "\f0da" !important; font: normal 32px/1.125 FontAwesome !important; }
+.hentry .mejs-controls .mejs-button button { font: normal 16px/1 FontAwesome !important; }
+.hentry .mejs-playpause-button.mejs-play button:before { content: "\f0da" !important; }
+.hentry .mejs-playpause-button.mejs-pause button:before { content: "\f04c" !important; }
+.hentry .mejs-volume-button.mejs-mute button:before { content: "\f026" !important; }
+.hentry .mejs-volume-button.mejs-unmute button:before { content: "\f028" !important; }
+.hentry .mejs-fullscreen-button button:before { content: "\f0b2" !important; }
+.hentry .mejs-fullscreen-button.mejs-unfullscreen button:before { content: "\f047" !important; }
+.attachment span.entry-date:before,
+        .entry-content .edit-link a:before,
+        .entry-meta .edit-link a:before,
+        .site-content .byline a:before,
+        .site-content .comments-link a:before,
+        .site-content .entry-date a:before,
+        .site-content .featured-post:before,
+        .site-content .full-size-link a:before,
+        .site-content .parent-post-link a:before,
+.site-content .post-format a:before { font: normal 14px/1 FontAwesome !important; }
+.search-toggle:before { content: "\f002" !important; }
+.menu-toggle:before { content: "\f0c9" !important; }
+.contributor-posts-link:before  { content: "\f016" !important; }
+.bypostauthor > article .fn:before { content: "\f005" !important; }
+.comment-edit-link:before { content: "\f040" !important; }
+.comment-reply-link:before,.comment-reply-login:before { content: "\f112" !important; }
+.comment-reply-title small a:before { content: "\f00d" !important; }
+.content-sidebar .widget_twentyfourteen_ephemera .video.widget-title:before { content: "\f04b" !important; }
+.content-sidebar .widget_twentyfourteen_ephemera .audio.widget-title:before { content: "\f028" !important; }
+.content-sidebar .widget_twentyfourteen_ephemera .image.widget-title:before { content: "\f03e" !important; }
+.content-sidebar .widget_twentyfourteen_ephemera .gallery.widget-title:before { content: "\f03e" !important; }
+.content-sidebar .widget_twentyfourteen_ephemera .aside.widget-title:before { content: "\f10c" !important; }
+.content-sidebar .widget_twentyfourteen_ephemera .quote.widget-title:before { content: "\f10e" !important; }
+.content-sidebar .widget_twentyfourteen_ephemera .link.widget-title:before { content: "\f0c1" !important; }
+.slider-direction-nav a:before { content: "\f060" !important; }
+.slider-direction-nav .slider-next:before { content: "\f061" !important; }
+.site-content .format-video .post-format a:before { content: "\f0da" !important; }
+.site-content .format-audio .post-format a:before { content: "\f028" !important; }
+.site-content .format-gallery .post-format a:before, .site-content .format-image .post-format a:before { content: "\f03e" !important; }
+.site-content .format-quote .post-format a:before { content: "\f10e" !important; }
+.site-content .format-aside .post-format a:before { content: "\f03e" !important; }
+.site-content .format-link .post-format a:before { content: "\f0c1" !important; }
+.site-content .featured-post:before { content: "\f08d" !important; }
+.site-content .entry-date a:before, .attachment .site-content span.entry-date:before { content: "\f017" !important; }
+.site-content .byline a:before { content: "\f007 " !important; }
+.site-content .comments-link a:before { content: "\f075" !important; }
+.entry-content .edit-link a:before,.entry-meta .edit-link a:before { content: "\f040" !important; }
+.site-content .full-size-link a:before { content: "\f00e" !important; }
+.site-content .parent-post-link a:before { content: "\f07c" !important; }
+.primary-navigation .menu-item-has-children > a:after, .primary-navigation .page_item_has_children > a:after { content: "\f078" !important; font: normal 8px/1 FontAwesome !important; }
+.primary-navigation .menu-item-has-children li.menu-item-has-children > a:after,
+        .primary-navigation .menu-item-has-children li.page_item_has_children > a:after,
+        .primary-navigation .page_item_has_children li.menu-item-has-children > a:after,
+.primary-navigation .page_item_has_children li.page_item_has_children > a:after { content: "\f0da" !important; }
+.secondary-navigation .menu-item-has-children > a:after { content: "\f054" !important; font: normal 8px/1 FontAwesome !important; }
